@@ -5,3 +5,4 @@ v1.0
  - compares each element in the test set to every element of the training set
  - takes a very long time and is very inefficient
  - took about 10 hours to get through 2000 elements with about 80.5% accuracy for k=5
+ - after 3000 elements for k=3 the model was about 79.3% accurate
